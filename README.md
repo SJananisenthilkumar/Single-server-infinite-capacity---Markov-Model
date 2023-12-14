@@ -20,9 +20,10 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
-
+https://private-user-images.githubusercontent.com/118351569/278802768-558bdff0-948e-4244-960f-3cc482dffa6c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1NjA5NTcsIm5iZiI6MTcwMjU2MDY1NywicGF0aCI6Ii8xMTgzNTE1NjkvMjc4ODAyNzY4LTU1OGJkZmYwLTk0OGUtNDI0NC05NjBmLTNjYzQ4MmRmZmE2Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxNFQxMzMwNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MzZkOTRmNzViOWQ2ZGI1NWYxZmJkNWEyNGQ2ZGI5ZWQ5NWIxYjI2MzgzN2Y5ZTFkMzVmODc4NzRhZDY0ZTVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.MaOSgzcp1Xac1n2t4ipBBgp_aSuiALlyk67YpGFGdkk
  
 ## Program
+```
 Developed by : Janani S
 Register number : 23013409
 
@@ -50,8 +51,9 @@ if (lam <  mu):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
+```
 ## Output :
 ![Screenshot 2023-12-14 185617](https://github.com/SJananisenthilkumar/Single-server-infinite-capacity---Markov-Model/assets/144871139/bb7a635e-9c9c-436b-8737-dcac68632340)
 
 ## Result :
-
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
